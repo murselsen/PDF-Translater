@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PDF Translater Project", "PDF Translater Project\PDF Translater Project.pyproj", "{5303B861-320E-4144-AF5A-69332C73FCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5303B861-320E-4144-AF5A-69332C73FCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5303B861-320E-4144-AF5A-69332C73FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D91B8CD-8293-4D11-ADF0-3D76DC71C423}
+	EndGlobalSection
+EndGlobal

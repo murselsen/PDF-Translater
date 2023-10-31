@@ -1,0 +1,18 @@
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+ERROR:root:Error : list index out of range
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
+INFO:root:Starting App
